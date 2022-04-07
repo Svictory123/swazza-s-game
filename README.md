@@ -1,2 +1,1 @@
-# swazza-s-game
-boom boom pow
+# Zombie-Shooter-stage-2
